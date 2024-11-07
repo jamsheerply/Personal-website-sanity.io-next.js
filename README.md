@@ -28,10 +28,6 @@ A modern personal website built with Next.js and Sanity.io, offering a powerful 
 ### Prerequisites
 
 - Node.js (v18.18.0)
-- Sanity CLI (optional but recommended)
-  ```bash
-  npm install -g @sanity/cli
-  ```
 
 1. **Clone the Repository**
 
@@ -47,21 +43,6 @@ A modern personal website built with Next.js and Sanity.io, offering a powerful 
    ```
 
 Frontend will run on http://localhost:3000
-
-### Sanity Studio Setup
-
-1. Navigate to the Sanity Studio directory
-2. Configure your project:
-   ```bash
-   sanity init
-   ```
-3. Follow the prompts to set up your project
-4. Start the Studio:
-   ```bash
-   sanity start
-   ```
-
-The Sanity Studio will be available at http://localhost:3333
 
 ## 💡 Contributing
 
