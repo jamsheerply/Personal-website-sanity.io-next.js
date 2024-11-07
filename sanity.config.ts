@@ -4,7 +4,7 @@ import { structureTool } from "sanity/structure";
 import { visionTool } from "@sanity/vision";
 
 const config = defineConfig({
-  projectId: process.env.VITE_PROJECT_ID ?? "",
+  projectId: "abmes2pc",
   dataset: "production",
   title: "my personal website",
   apiVersion: "2024-11-06",
